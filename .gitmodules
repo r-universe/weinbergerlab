@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pspline.inference"]
+	path = pspline.inference
+	url = https://github.com/weinbergerlab/pspline.inference
+	shallow = true
+	registered = true
